@@ -1,0 +1,28 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Browser Refresh",
+		"Compass",
+		"ConvertToUTF8",
+		"CSS Snippets",
+		"DashDoc",
+		"Format SQL",
+		"Git",
+		"HTML5",
+		"jQuery",
+		"Markdown Preview",
+		"Package Control",
+		"RailsCasts Colour Scheme",
+		"Sass",
+		"Shell Turtlestein",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeServer",
+		"Tag",
+		"ToggleMinimapOnScroll",
+		"TrailingSpaces",
+		"ZenCoding"
+	]
+}

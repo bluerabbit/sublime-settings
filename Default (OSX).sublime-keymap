@@ -41,5 +41,6 @@
 	{
 		"keys": ["ctrl+shift+h"],
 		"command": "dash_doc"
-	}
+	},
+	{ "keys": ["super+shift+f"], "command": "alignment" }
 ]

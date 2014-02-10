@@ -6,6 +6,7 @@
     { "keys": ["super+l"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
     { "keys": ["alt+up"], "command": "swap_line_up" },
     { "keys": ["alt+down"], "command": "swap_line_down" },
+    { "keys": ["ctrl+o"], "command": "auto_complete" },
 	{
 		"keys": ["ctrl+t", "g"], // 画面分割の解除
 		"command": "set_layout",
